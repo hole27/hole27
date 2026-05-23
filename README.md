@@ -19,3 +19,5 @@ Software Engineering student focused on modern web development.
 
 ## 📫 Contact
 - GitHub: https://github.com/hole27
+
+![Kristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=hole27&show_icons=true&theme=tokyonight)
