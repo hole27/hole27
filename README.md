@@ -21,4 +21,4 @@ Software Engineering student focused on modern web development.
 - GitHub: https://github.com/hole27
 
 ## Github status
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hole27&show_icons=true&theme=tokyonight" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=hole27&theme=tokyonight)](https://git.io/streak-stats)
