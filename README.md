@@ -1,26 +1,19 @@
 # 👋 Kristian Hole Jensen
 
-Software Engineering student focused on modern web development.
+Frontend / Software Engineering Student
 
-## 🚀 Technologies
-- JavaScript
-- React
-- Tailwind CSS
-- Git & GitHub
-- Vite
+## 🚀 Tech Stack
 
-## 📚 Currently Learning
-- TypeScript
-- Next.js
-- Backend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwind-css)
 
-## 🌐 Portfolio
-[https://kristianjensen.site](https://kristianjensen.site)
+## 📊 GitHub Stats
 
-## 📫 Contact
-- GitHub: https://github.com/hole27
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hole27&show_icons=true&theme=tokyonight"/>
 
-## Github status
 [![GitHub Streak](https://streak-stats.demolab.com?user=hole27&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Kristian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hole27&theme=tokyo-night)](https://github.com/hole27)
+## 🌐 Portfolio
+
+https://kristianjensen.site
