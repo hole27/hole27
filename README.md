@@ -12,10 +12,15 @@ Frontend / Software Engineering Student
 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
+## 📚 Currently Learning
+- TypeScript
+- Next.js
+- Backend Development
+
 
 ## 🌐 Portfolio
 
-https://kristianjensen.site
+[🌐 Visit Portfolio](https://kristianjensen.site)
 
 ## 📊 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=hole27&theme=tokyonight)](https://git.io/streak-stats)
