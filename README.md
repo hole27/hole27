@@ -20,4 +20,5 @@ Software Engineering student focused on modern web development.
 ## 📫 Contact
 - GitHub: https://github.com/hole27
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hole27&show_icons=true&theme=github_dark" />
+## Github status
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hole27&show_icons=true&theme=tokyonight" />
