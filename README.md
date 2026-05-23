@@ -1,6 +1,6 @@
 # 👋 Kristian Hole Jensen
 
-Frontend / Software Engineering Student
+Frontend / Software Engineering student focused on modern web development with React and JavaScript.
 
 ## 🚀 Tech Stack
 
