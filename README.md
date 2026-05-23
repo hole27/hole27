@@ -10,6 +10,10 @@ Frontend / Software Engineering Student
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ## 🌐 Portfolio
 
 https://kristianjensen.site
@@ -17,6 +21,6 @@ https://kristianjensen.site
 ## 📊 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=hole27&theme=tokyonight)](https://git.io/streak-stats)
 
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
 
 
