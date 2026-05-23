@@ -15,9 +15,8 @@ Frontend / Software Engineering Student
 https://kristianjensen.site
 
 ## 📊 GitHub Stats
-
-[![Kristian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hole27&theme=tokyo-night)](https://github.com/hole27)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=hole27&theme=tokyonight)](https://git.io/streak-stats)
+
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 
