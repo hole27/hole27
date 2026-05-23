@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Kristian Hole Jensen
 
-<!--
-**hole27/hole27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student focused on modern web development.
 
-Here are some ideas to get you started:
+## 🚀 Technologies
+- JavaScript
+- React
+- Tailwind CSS
+- Git & GitHub
+- Vite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- TypeScript
+- Next.js
+- Backend Development
+
+## 🌐 Portfolio
+[https://kristianjensen.site](https://kristianjensen.site)
+
+## 📫 Contact
+- GitHub: https://github.com/hole27
