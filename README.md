@@ -16,7 +16,7 @@ https://kristianjensen.site
 
 ## 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hole27&show_icons=true&theme=tokyonight"/>
+[![Kristian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hole27&theme=tokyo-night)](https://github.com/hole27)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hole27&theme=tokyonight)](https://git.io/streak-stats)
 
