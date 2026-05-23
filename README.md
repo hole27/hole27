@@ -17,9 +17,6 @@ Frontend / Software Engineering Student
 - Next.js
 - Backend Development
 
-
-## 🌐 Portfolio
-
 [🌐 Visit Portfolio](https://kristianjensen.site)
 
 ## 📊 GitHub Stats
