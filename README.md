@@ -23,4 +23,4 @@ Software Engineering student focused on modern web development.
 ## Github status
 [![GitHub Streak](https://streak-stats.demolab.com?user=hole27&theme=tokyonight)](https://git.io/streak-stats)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hole27&layout=compact&theme=tokyonight"/>
+[![Kristian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hole27&theme=tokyo-night)](https://github.com/hole27)
