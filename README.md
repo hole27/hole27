@@ -6,7 +6,7 @@ Software Engineering student building modern web applications with React and Jav
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-2D6A4F?style=for-the-badge&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-40916C?style=for-the-badge&logo=javascript&logoColor=white)
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
