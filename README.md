@@ -20,7 +20,7 @@ Software Engineering student building modern web applications with React and Jav
 [🌐 Visit Portfolio](https://kristianjensen.site)
 
 ## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=hole27)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hole27&theme=tokyonight)](https://git.io/streak-stats)
 
 
 
