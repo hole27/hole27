@@ -1,6 +1,6 @@
 # 👋 Kristian Hole Jensen
 
-Software Engineering student building modern web applications with React and JavaScript.
+Building mobile applications with React Native, TypeScript, Expo and Supabase.
 
 ## 🚀 Tech Stack
 
